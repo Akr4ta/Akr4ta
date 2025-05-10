@@ -4,4 +4,4 @@ Meu nome é Endrick, sou Cientista Comportamental com formação em Psicologia. 
 
 Tenho interesse em Comportamento Social, Behaviorismo, Ciência de Dados, Arch GNU/Linux e Anarquismo.
 
-Atualmente programando em Python, Bash e R.
+Atualmente programando em Julia, Python e Bash.
